@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Olivier B. Working as team lead for GWAM Asia.
-- 👀 I’m interested in being a good father, being inclusive, being a good team lead, loosing weight (<-- still failing). 
-- 🌱 I’m currently how to not screw up too much with change management.
-- 💞️ I’m looking to collaborate on change management can be agile, include them with our move to faster release and more automation (including CM)
+- 👋 Hi, I’m Olivier B. Working as a team lead for GWAM Asia.
+- 👀 I’m trying to be a good father, being inclusive, being a good team lead, loosing weight (<-- still failing). 
+- 🌱 I’m currently trying to not screw up too much with change management.
+- 💞️ I’m looking forward to collaborate on transforming change management to be agile.
 - 📫 Well you can probably find a way somewhere on Github.
 
 <!---
